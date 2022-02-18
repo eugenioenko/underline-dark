@@ -1,0 +1,27 @@
+{
+    "name": "underline-dark",
+    "displayName": "Underline Dark",
+    "description": "Dark theme with Underline color scheme",
+    "version": "0.0.1",
+    "preview": true,
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+		"underline",
+		"dark"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Underline Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/underline-dark.json"
+            }
+        ]
+    }
+}
