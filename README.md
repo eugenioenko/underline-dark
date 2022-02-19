@@ -8,4 +8,5 @@ Copy the repository into vscode extensions folder
 
 - MacOS `~/.vscode/extensions/`
 
+![screenshot](https://eugenioenko.github.io/underline-dark/screenshot.png)
 **Enjoy!**
